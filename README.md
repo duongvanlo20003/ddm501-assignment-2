@@ -2,6 +2,9 @@
 
 Pipeline Airflow + MLflow cho bài toán phân loại WDBC, phát triển tiếp từ kiến trúc hệ thống trong Individual Assignment 1.
 
+- **Student:** Phạm Văn Duy Khánh
+- **Student ID:** 25ms13313
+
 Pipeline gồm bảy bước:
 
 ```text
@@ -70,15 +73,8 @@ Báo cáo chạy thêm 10 cấu hình. SVM RBF có kết quả tốt nhất tạ
 
 ## Tài liệu nộp bài
 
-PDF hoàn chỉnh nằm tại [`report/DDM501_Assignment2_STUDENTID_NAME.pdf`](report/DDM501_Assignment2_STUDENTID_NAME.pdf).
-
-Trước khi nộp, thay tên/MSSV và đổi tên file theo định dạng:
-
-```text
-DDM501_Assignment2_[StudentID]_[Name].pdf
-```
+PDF hoàn chỉnh nằm tại [`report/DDM501_Assignment2_25ms13313_PhamVanDuyKhanh.pdf`](report/DDM501_Assignment2_25ms13313_PhamVanDuyKhanh.pdf).
 
 ## Phạm vi sử dụng
 
 Đây là project học tập về MLOps. Dataset và kết quả thử nghiệm không đủ để triển khai trong môi trường chẩn đoán lâm sàng.
-
